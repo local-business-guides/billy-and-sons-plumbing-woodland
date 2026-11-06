@@ -27,6 +27,9 @@
 - [Affordable Plumber Woodland Homeowners Can Call](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/affordable-plumber-woodland/): Looking for an affordable plumber Woodland homeowners can call? Get plumbing guidance for your Woodland, California home. Call Billy & Sons Plumbing today.
 - [Nearest Plumber to Me Woodland Residents Can Call](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/nearest-plumber-to-me-woodland/): Searching for nearest plumber to me Woodland? Reach a plumbing team serving Woodland, California, day or night. Call Billy & Sons Plumbing for help.
 
+## Newsroom
+- [Billy & Sons Plumbing Shares New Woodland Plumber Guide](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/news/2026-11-06-billy-sons-plumbing-shares-new-woodland-plumber/): Billy & Sons Plumbing published a Woodland Plumber guide this week, with related video, podcast and audio versions. (2026-11-06)
+
 ## Pages
 - [Woodland Plumber in California](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/): Get help with plumbing, heating, cooling, and water damage concerns from a local Woodland business. Call +1530-236-7500.
 - [About Billy & Sons Plumbing](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/about/): About Billy & Sons Plumbing, Woodland.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/billy-and-sons-plumbing-woodland/news/rss.xml)
 - [Main resource site](https://billy-sons-woodland-plumbing.localbusinesses1.chatgpt.site)
